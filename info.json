@@ -1,0 +1,9 @@
+{
+    "author": [
+        "psharma04"
+    ],
+    "install_msg": "Thanks for installing my repo!\n\nIf you have any issues with any of the cogs, feel free to email me (pepsicogs@pshar.ma), DM PepsiBot, or open an issue on GitHub (https://github.com/psharma04/PepsiCogs/issues).",
+    "name": "PepsiCogs",
+    "short": "Modified cogs for use with PepsiBot",
+    "description": "Modified versions of existing cogs for use with PepsiBot."
+}
