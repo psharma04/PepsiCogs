@@ -1,0 +1,9 @@
+{
+    "author" : ["saurichable", "flare", "aikaterna", "psharma04"],
+    "install_msg" : "Thank you for installing Forwarding!",
+    "name" : "Forwarding",
+    "short" : "Forward messages to the owner.",
+    "description" : "Forward all DMs sent to the bot to the bot owner (or a specified channel), including messages with attachments. Original is from https://github.com/elijabesu/SauriCogs",
+    "tags" : ["forwarding", "forward"],
+    "end_user_data_statement": "This cog stores user ID if they are set as a ping user."
+}
