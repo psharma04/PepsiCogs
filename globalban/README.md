@@ -31,5 +31,5 @@ This cog also makes sure that a user meant to be banned, stays banned, until unb
 - [p]delsync # Removes a server from the synced server list.
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Privacy
+[Heimdall Intranet Privacy Policy](https://privacy.pks.ai/)
