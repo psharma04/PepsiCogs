@@ -131,7 +131,7 @@ class BanSync(commands.Cog):
         """
         AppInfo = await self.bot.application_info()
         Owner = AppInfo.owner
-        message = "I have not been setup correctly. ( Check if i'm admin or if I can ban/unban other players. ) \nThe BanSync failed on these servers: \n"
+        message = "I have not been setup correctly. ( Check if I'm admin, or if I can ban/unban other players. ) \nThe BanSync failed on these servers: \n"
         for number, failure in enumerate(failed_servers):
             message += '\n{}. {}'.format(number + 1, failure)
         await Owner.send(message)
