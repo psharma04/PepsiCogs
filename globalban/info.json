@@ -3,7 +3,7 @@
         "psharma04"
     ],
     "install_msg": "Thanks for installing GlobalBan! If you need documentation on how to use it, take a look at https://pks.ai/globalban-pepsibot :)",
-    "name": "GlobalBan",
+    "name": "globalban",
     "short": "PepsiBot cog to ban users across all servers which the bot is in.",
     "description": "https://pks.ai/globalban-pepsibot"
 }
